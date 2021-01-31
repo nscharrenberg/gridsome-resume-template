@@ -7,11 +7,13 @@
       <hr class="m-0">
       <Education/>
       <hr class="m-0">
+      <Volunteer />
+      <hr class="m-0">
+      <Project />
+      <hr class="m-0">
       <Skills/>
-      <hr class="m-0">
-      <Interests/>
-      <hr class="m-0">
-      <Awards/>
+<!--      <hr class="m-0">-->
+<!--      <Awards/>-->
     </div>
   </Layout>
 </template>
@@ -21,8 +23,9 @@
   import Experience from "../components/Experience";
   import Education from "../components/Education";
   import Skills from "../components/Skills";
-  import Interests from "../components/Interests";
   import Awards from "../components/Awards";
+  import Volunteer from "../components/Volunteer";
+  import Project from "../components/Projects";
 
   export default {
     components: {
@@ -30,8 +33,9 @@
       Experience,
       Education,
       Skills,
-      Interests,
-      Awards
+      Awards,
+      Volunteer,
+      Project,
     },
     metaInfo: {
       title: "Gridsome Starter Resume",

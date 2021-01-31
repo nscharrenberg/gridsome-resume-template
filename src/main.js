@@ -32,6 +32,8 @@ import {
   faGulp,
   faGrunt,
   faNpm,
+    faVuejs,
+    faJava,
 } from '@fortawesome/free-brands-svg-icons';
 
 import {
@@ -47,7 +49,6 @@ library.add(
     faHtml5,
     faCss3Alt,
     faJsSquare,
-    faAngular,
     faReact,
     faNodeJs,
     faSass,
@@ -58,6 +59,8 @@ library.add(
     faNpm,
     faRss,
     faCheck,
+    faVuejs,
+    faJava,
 );
 
 export default function (Vue, { head }) {
