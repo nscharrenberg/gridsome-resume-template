@@ -20,5 +20,10 @@ module.exports = {
         cacheTime: 600000
       }
     }
-  ]
+  ],
+  css: {
+    loaderOptions: {
+      scss: {}
+    }
+  }
 };
