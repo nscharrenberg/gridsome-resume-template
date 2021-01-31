@@ -38,8 +38,8 @@
       Project,
     },
     metaInfo: {
-      title: "Gridsome Starter Resume",
-      titleTemplate: "%s - Create your resume quick and easy!"
+      title: "Noah Scharrenberg",
+      titleTemplate: "%s - Resume"
     }
   };
 </script>
