@@ -5,6 +5,17 @@
 
             <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
                 <div class="resume-content">
+                    <h3 class="mb-0">Drawing Recognition</h3>
+                    <div class="subheading mb-3">DeepLearning4J</div>
+                    <p>A Hobby project to get to know more about the usage of different kinds of ML approaches such as MLP, DT, RF, kNN, DL by letting them detect what is written on the canvas, starting with the simple mnist dataset.</p>
+                </div>
+                <div class="resume-date text-md-right">
+                    <span class="text-primary">January 2021 - Present</span>
+                </div>
+            </div>
+
+            <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+                <div class="resume-content">
                     <h3 class="mb-0">Canvas Instructure Nudging AI</h3>
                     <div class="subheading mb-3">Fontys University</div>
                     <p>Using submissions and submission behaviour that students made on Instructure Canvas, to help them improve their study and to warn students and teachers when a student is most likely struggling.</p>
